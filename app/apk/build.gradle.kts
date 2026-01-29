@@ -52,7 +52,7 @@ dependencies {
     implementation(libs.transition)
     implementation(libs.fragment.ktx)
     implementation(libs.appcompat)
-    implementation(libs.material)
+    implementation("com.google.android.material:material:1.11.0")
 
     // Make sure kapt runs with a proper kotlin-stdlib
     kapt(kotlin("stdlib"))
