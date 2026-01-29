@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <style name="Base.V23.Theme.Foundation.Light" parent="Theme.MaterialComponents.Light.NoActionBar">
+    <style name="Base.V23.Theme.Foundation.Light" parent="Theme.Material3.DayNight.NoActionBar">
         <item name="android:windowBackground">?colorSurface</item>
         <item name="android:windowContentOverlay">@null</item>
         <item name="dialogTheme">@style/ThemeOverlay.Foundation.Dialog</item>
