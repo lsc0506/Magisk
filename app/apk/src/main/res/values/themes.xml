@@ -10,7 +10,7 @@
         <item name="android:windowLightStatusBar">true</item>
     </style>
 
-    <style name="Base.V23.Theme.Foundation" parent="Theme.Material3.NoActionBar">
+    <style name="Base.V23.Theme.Foundation" parent="Theme.MaterialComponents.NoActionBar">
         <item name="android:windowBackground">?colorSurface</item>
         <item name="android:windowContentOverlay">@null</item>
         <item name="dialogTheme">@style/ThemeOverlay.Foundation.Dialog</item>
