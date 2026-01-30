@@ -50,7 +50,7 @@
                 goneUnless="@{viewModel.noticeVisible}"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                app:cardCornerRadius="20dp"
+                app:cardCornerRadius="15dp"
                 android:layout_marginStart="@dimen/l1"
                 android:layout_marginEnd="@dimen/l1"
                 android:layout_marginBottom="@dimen/l1"
