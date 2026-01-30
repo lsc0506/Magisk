@@ -25,14 +25,12 @@
             style="@style/WidgetFoundation.Appbar"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:background="@style/ColorNew"
             app:fitsSystemWindowsInsets="top">
 
             <com.google.android.material.appbar.MaterialToolbar
                 android:id="@+id/main_toolbar"
                 style="@style/WidgetFoundation.Toolbar"
                 android:layout_width="match_parent"
-                android:background="@style/ColorNew"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_scrollFlags="noScroll"
                 tools:layout_marginTop="24dp"
