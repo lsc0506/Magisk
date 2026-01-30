@@ -60,7 +60,6 @@
         <item name="colorOnSurfaceVariant">#BF444444</item>
         <item name="colorDisabled">#808080</item>
         <item name="colorDisabledVariant">#66808080</item>
-        <item name="ColorNew">#EDEDF4</item>
     </style>
 
     <style name="ThemeFoundationMD2.Amoled" parent="ThemeFoundationMD2.Piplup">
